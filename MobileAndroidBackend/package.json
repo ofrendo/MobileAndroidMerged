@@ -1,0 +1,29 @@
+{
+  "name": "MobileAndroidBackend",
+  "version": "0.1.0",
+  "description": "MobileAndroid node.js backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "pg": "3.x",
+    "body-parser": "^1.7.0",
+    "email-validator": "^1.0.1",
+    "express": "~4.9.x",
+    "cors": "^2.5.2",
+    "blueimp-md5": "^1.1.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ofrendo/MobileAndroidBackend"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "license": "MIT"
+}

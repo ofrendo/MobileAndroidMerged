@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">GEO</string>
+
+    <string name="hello_world">Hello world! 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rule">Rule</string>
+    <string name="tabGeneral">General</string>
+    <string name="tabConditions">Conditions</string>
+    <string name="title_activity_rule_general">RuleGeneral</string>
+    <string name="title_activity_rule_condition">RuleCondition</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_rule_action">RuleAction</string>
+    <string name="RuleGeneralTitle">General</string>
+    <string name="RuleConditionTitle">Condition</string>
+    <string name="RuleActionTitle">Action</string>
+    <string name="RuleGeneralName">Name</string>
+    <string name="RuleGeneralDelete">Delete</string>
+    <string name="RuleGeneralActive">Active</string>
+    <string name="title_activity_rule_container">RuleContainer</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="title_activity_maps">Map</string>
+    <!-- <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyCMoQZYGCB4SYlQmYFIC8WlvLAhuGc0JAA</string> -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyB5yE4r6Y8VCaBqn6fCAGmCx7wamcYjLbY</string>
+    <string name="mapRadius">Radius</string>
+    <string name="map_unit">M</string>
+    <string name="map_marker_name">Name: </string>
+    <string name="map_marker_edit_name">Edit Name</string>
+    <string name="newMarker">New Marker</string>
+    <string name="upload">Upload to Server</string>
+    <string name="MapsQuestionDeleteGeofence">You want to remove this geofence?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="MapsTitleDeleteGeofence">Delete Geofence</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="main_existingRules">Existing Rules</string>
+    <string name="main_new_rule">New Rule</string>
+
+    <string name="rule_tab_general">General</string>
+    <string name="rule_tab_condition">Condition</string>
+    <string name="rule_tab_action">Action</string>
+
+    <string name="action_bluetooth">Bluetooth</string>
+    <string name="action_wifi">WIFI</string>
+    <string name="action_Notification">Notification</string>
+    <string name="action_Message">Message</string>
+    <string name="action_Sound">Sound</string>
+    <string name="action_Status">Status</string>
+
+    <string name="action_Number">Phone Number</string>
+    <string name="action_text">Message</string>
+    <string name="title_activity_time">Time</string>
+
+    <string name="alert_title">Attention</string>
+    <string name="alert_text">Do you really want to delete</string>
+    <string name="alert_rule">rule</string>
+    <string name="alert_condition">condition</string>
+    <string name="alert_start_greater_end">The end time must not be earlier than the start time!</string>
+    <string name="time_selectTimeframe">Select Timeframe</string>
+    <string name="time_start_time">Start time</string>
+    <string name="time_end_time">End time</string>
+    <string name="time_weekdays">Weekdays</string>
+
+    <string name="time_mon">Mon</string>
+    <string name="time_tue">Tue</string>
+    <string name="time_wed">Wed</string>
+    <string name="time_thu">Thu</string>
+    <string name="time_fri">Fri</string>
+    <string name="time_sat">Sat</string>
+    <string name="time_sun">Sun</string>
+    <string name="title_activity_import">Import</string>
+    <string name="import_search">Search groups..</string>
+    <string name="import_dialog">Do you want to import</string>
+
+
+</resources>
